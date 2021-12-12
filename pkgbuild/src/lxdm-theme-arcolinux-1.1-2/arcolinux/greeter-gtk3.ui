@@ -41,7 +41,6 @@
                     <property name="pixbuf">logo.png</property>
                   </object>
                   <packing>
-                    <property name="padding">60</property>
                     <property name="expand">True</property>
                     <property name="fill">True</property>
                     <property name="position">0</property>

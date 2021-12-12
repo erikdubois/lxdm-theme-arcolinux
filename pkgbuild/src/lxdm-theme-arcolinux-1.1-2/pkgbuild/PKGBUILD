@@ -5,7 +5,7 @@
 _theme=lxdm-theme-arcolinux
 pkgname=lxdm-theme-arcolinux-git
 pkgver=1.1
-pkgrel=2
+pkgrel=1
 pkgdesc="Simple ArcoLinux theme for LXDM, by Thayer Williams and Allan McRae and Erik Dubois"
 arch=('any')
 url="http://allanmcrae.com/2011/08/simple-arch-linux-theme-for-lxdm/"
@@ -13,7 +13,7 @@ license=('CCPL:by-sa')
 depends=('lxdm')
 source=("https://github.com/erikdubois/lxdm-theme-arcolinux/archive/refs/tags/$pkgver-$pkgrel.tar.gz"
         "git-fixes.patch")
-sha256sums=('cb95ea667de0c49a83669fb066e679336f4ef3c647a0a227068524a272c0baab'
+sha256sums=('c2a05f572ee14d67b9134dcd2d4ea226214d77c7c31638938ee6e16bf4a73d97'
             '95f3e1b63f38fb6289beed290c15c022836a2800e4358e22e6c7ec52c741af30')
 
 #prepare() {
